@@ -4,7 +4,7 @@ import './AboutMe.css';
 function AboutMe() {
   return (
     <section className="about-me">
-      <img src="/images/Profile.JPG" alt="Selena Pixton" className="avatar" />
+      <img src="/Profile.JPG" alt="Selena Pixton" className="avatar" />
       <div className="about-text">
         <h2>About Me <i class="bi bi-emoji-smile-fill"></i></h2>
         <p>
